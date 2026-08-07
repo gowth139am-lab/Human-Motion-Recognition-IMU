@@ -1,5 +1,7 @@
 # Human Motion Recognition Using IMUs (HMR_IMU)
 
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=gowth139am-lab/Human-Motion-Recognition-IMU)
+
 MathWorks Excellence in Innovation — Project #232
 
 **Author:** Gowtham S, Nagaraju D V, Sharath H G
