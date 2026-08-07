@@ -1,0 +1,2 @@
+Model,ValidationAccuracy,TestAccuracy
+Cubic SVM,0.99,0.947064811672888

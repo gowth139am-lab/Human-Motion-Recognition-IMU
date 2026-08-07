@@ -1,0 +1,2 @@
+Model,ValidationAccuracy,TestAccuracy
+"Quadratic SVM (28-feature, invariant)",0.958,0.885307091957923

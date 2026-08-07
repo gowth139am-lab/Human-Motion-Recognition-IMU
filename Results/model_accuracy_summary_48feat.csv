@@ -1,0 +1,2 @@
+Model,ValidationAccuracy,TestAccuracy
+Linear SVM (48-feature),0.941,0.879877841873091
